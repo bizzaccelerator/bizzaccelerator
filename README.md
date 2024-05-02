@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data projects.
 - 🌱 I’m currently learning stream processing data technologies, specially Kafka.
--  Ask me about Programming in Python, PySpark, SQL Commands, Tableau, & Data Engineering Concepts.
+- 💬 Ask me about Programming in Python, PySpark, SQL Commands, Tableau, & Data Engineering Concepts.
 
 ### Technical Skils.
