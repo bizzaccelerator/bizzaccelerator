@@ -3,7 +3,7 @@
 
 ### My Short Intro.
 
-[![Email Badge](https://img.shields.io/badge/Gmail?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](jobert.gutierrez@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Email?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](jobert.gutierrez@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jobertgutierrez/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/JobertGutierrez)
 
