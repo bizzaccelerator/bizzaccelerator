@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on data projects.
 - 🌱 I’m currently learning stream processing data technologies, specially Kafka.
+
+### Technical Skils.
